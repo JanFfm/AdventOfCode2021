@@ -1,6 +1,6 @@
 
 counter= 0
-seq = []
+
 first_run = True
 first_depth = 0
 input_file = open('input1a.txt', 'r')
