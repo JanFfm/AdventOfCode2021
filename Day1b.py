@@ -3,7 +3,7 @@ windows = ['A', 'B', 'C', 'D']
 left_win = windows[0]
 
 scans = []
-input_file = open('input1a.txt', 'r')
+input_file = open('input1.txt', 'r')
 
 for l in input_file:
     depth = l.split('\n')[0]

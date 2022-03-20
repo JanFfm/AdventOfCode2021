@@ -3,7 +3,7 @@ counter= 0
 
 first_run = True
 first_depth = 0
-input_file = open('input1a.txt', 'r')
+input_file = open('input1.txt', 'r')
 for l in input_file:
     if first_run:
         first_depth = int(l.split('\n')[0])

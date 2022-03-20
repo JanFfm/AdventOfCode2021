@@ -27,7 +27,7 @@ class submarine:
 
 sub =submarine()
 
-input_file = open('input2a.txt', 'r')
+input_file = open('input2.txt', 'r')
 for l in input_file:
     sub.get_input(l.split('\n')[0])
 print("depth ", sub.depth)
