@@ -1,0 +1,4 @@
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Debug\netcoreapp3.1\Day5ff.csprojAssemblyReference.cache
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Debug\netcoreapp3.1\Day5ff.AssemblyInfoInputs.cache
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Debug\netcoreapp3.1\Day5ff.AssemblyInfo.cs
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Debug\netcoreapp3.1\Day5ff.csproj.CoreCompileInputs.cache

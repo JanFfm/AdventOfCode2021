@@ -1,0 +1,13 @@
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.AssemblyInfoInputs.cache
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.AssemblyInfo.cs
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.csproj.CoreCompileInputs.cache
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\bin\Release\netcoreapp3.1\Day5ff.exe
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\bin\Release\netcoreapp3.1\Day5ff.deps.json
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\bin\Release\netcoreapp3.1\Day5ff.runtimeconfig.json
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\bin\Release\netcoreapp3.1\Day5ff.runtimeconfig.dev.json
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\bin\Release\netcoreapp3.1\Day5ff.dll
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\bin\Release\netcoreapp3.1\Day5ff.pdb
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.dll
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.pdb
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.genruntimeconfig.cache
+C:\Users\janja\Desktop\AdventOfCode2021\Day5ff\Day5ff\obj\Release\netcoreapp3.1\Day5ff.csprojAssemblyReference.cache
